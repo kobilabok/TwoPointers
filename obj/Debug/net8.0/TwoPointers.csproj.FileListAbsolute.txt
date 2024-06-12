@@ -1,0 +1,14 @@
+C:\dev\LeetCode\TwoPointers\bin\Debug\net8.0\TwoPointers.exe
+C:\dev\LeetCode\TwoPointers\bin\Debug\net8.0\TwoPointers.deps.json
+C:\dev\LeetCode\TwoPointers\bin\Debug\net8.0\TwoPointers.runtimeconfig.json
+C:\dev\LeetCode\TwoPointers\bin\Debug\net8.0\TwoPointers.dll
+C:\dev\LeetCode\TwoPointers\bin\Debug\net8.0\TwoPointers.pdb
+C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\TwoPointers.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\TwoPointers.AssemblyInfoInputs.cache
+C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\TwoPointers.AssemblyInfo.cs
+C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\TwoPointers.csproj.CoreCompileInputs.cache
+C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\TwoPointers.dll
+C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\refint\TwoPointers.dll
+C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\TwoPointers.pdb
+C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\TwoPointers.genruntimeconfig.cache
+C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\ref\TwoPointers.dll

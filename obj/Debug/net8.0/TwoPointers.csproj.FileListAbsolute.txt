@@ -12,3 +12,4 @@ C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\refint\TwoPointers.dll
 C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\TwoPointers.pdb
 C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\TwoPointers.genruntimeconfig.cache
 C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\ref\TwoPointers.dll
+C:\dev\LeetCode\TwoPointers\obj\Debug\net8.0\TwoPointers.sourcelink.json

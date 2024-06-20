@@ -11,9 +11,26 @@ using System.Globalization;
 
 var input = "aurora"; //racecar, aurora
 
+int[] numArray = new int[input.Length];
+
+List<int> numlist = new List<int>();
+
+foreach (char c in input){
+    numlist.Add(c);
+    Console.WriteLine(c);
+}
+
+if(IsPalindrom(input)){
+    Console.WriteLine($"{input.ToUpper()} is a palindrom");
+}
+else{
+    Console.WriteLine($"{input.ToUpper()} is NOT a palindrom");
+}
+
 Console.WriteLine(IsPalindrom(input));
 
 bool IsPalindrom(string s){
+
 
     int left = 0;
     int right = s.Length - 1;
